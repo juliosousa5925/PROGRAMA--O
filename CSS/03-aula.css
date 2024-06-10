@@ -1,0 +1,7 @@
+
+#titulo01{color: red; font-weight: bold;} 
+#titulo02{color: blue; font-size: 100px;} /* font size: tamanho da letra*/ 
+.butaofodao{color: rgb(250, 0, 0);background: green;} 
+button{background: yellow;} /* bordas do butao */
+p{font-weight: bold;}  /*negrito*/
+*{color: brown;}

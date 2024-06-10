@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 200vh;
+    width: 200vw; /* TAGs padroes para iniciar CONFIG css */
+
+}
+
+.div-dad {
+    height: 350px;
+    width: 350px;
+    background: #ff1396;
+    
+
+}
+
+.div-son {
+    height: 150px;
+    width: 150px;
+    background: yellow;
+    
+}
+
+.pikachu{
+    height: 100px;
+    width: 100px;
+    background: red;
+
+}
+
+
+
+
+/*  static : é oque vem em padrao que fica na esquerda.
+    fixed: fica fixa na tela e perde hit box obs fixando o dad o son vai junto
+    stick: é a junção do static e do fixed mas temos que adicionar a quantidade de '' top px'', dependendo do valor
+    quando descemos a barra de rolagem ele fica fixionado na tela conforme oo valor do px mas depois desaparece.
+    posicion relative:
+    position absolute:sem hitbox tbm
+
+
+
+
+
+
+
+    opacity: deixa invisivel
+    magin-top: abaixa em px
+    margin-left: move para direita
+    margin-right: move para esquerda
+    margin-botton: subir
+    
+    */
+
